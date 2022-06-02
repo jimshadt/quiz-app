@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/quiz-app/static/css/main.28e0bc03.chunk.css",
+    "main.js": "/quiz-app/static/js/main.fd6d8813.chunk.js",
+    "main.js.map": "/quiz-app/static/js/main.fd6d8813.chunk.js.map",
+    "runtime-main.js": "/quiz-app/static/js/runtime-main.9f6f4866.js",
+    "runtime-main.js.map": "/quiz-app/static/js/runtime-main.9f6f4866.js.map",
+    "static/css/2.0de9709f.chunk.css": "/quiz-app/static/css/2.0de9709f.chunk.css",
+    "static/js/2.0e401d06.chunk.js": "/quiz-app/static/js/2.0e401d06.chunk.js",
+    "static/js/2.0e401d06.chunk.js.map": "/quiz-app/static/js/2.0e401d06.chunk.js.map",
+    "index.html": "/quiz-app/index.html",
+    "static/css/2.0de9709f.chunk.css.map": "/quiz-app/static/css/2.0de9709f.chunk.css.map",
+    "static/css/main.28e0bc03.chunk.css.map": "/quiz-app/static/css/main.28e0bc03.chunk.css.map",
+    "static/js/2.0e401d06.chunk.js.LICENSE.txt": "/quiz-app/static/js/2.0e401d06.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/quiz-app/static/media/fa-solid-900.f4f93856.woff",
+    "static/media/nucleo.css": "/quiz-app/static/media/nucleo-icons.d6a66724.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f6f4866.js",
+    "static/css/2.0de9709f.chunk.css",
+    "static/js/2.0e401d06.chunk.js",
+    "static/css/main.28e0bc03.chunk.css",
+    "static/js/main.fd6d8813.chunk.js"
+  ]
+}
